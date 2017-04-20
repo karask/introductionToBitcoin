@@ -102,7 +102,7 @@ can offer us. Below you can see a categorization of several possible application
 
 Remittances:: Sending money anywhere in the world.
 Payments:: Buying/selling goods online.
-Bank Services:: A lot of people globaly have no access to bank services.
+Bank Services:: A lot of people globally have no access to bank services.
 Store of Value:: Safe-guard the value of your currency from inflation.
 Digital tokens:: Send ownership of anything anywhere in the world.
 Decentralized Applications:: Decentralize control and disintermediate most internet applications (crowdfunding, e-commerce, cloud storage, DNS, social media/platforms and more)
@@ -148,7 +148,7 @@ Traditionally, gold or reserve currencies (dollars, euros) are used for that pur
 There were periods in countries like Argentina that hyper-inflation was causing the local currency to lose half its value every week. And in some countries, like Zimbabwe, it even happened daily! But even people in countries with only high inflation like China, Russia and others have high incentives to protect the _value_ they own through gold, reserve currencies and lately bitcoins, which is also the most secure way in respect to actual ownership.
 
 === Digital tokens
-Until now we have discussed about transfering (ownership) of currency between two or more parties anywhere in the world. This use case deals with transfering ownership of anything via the technology Bitcoin introduced. Users can create their own digital tokens that represent real world objects that they sell or services that they provide or anything else you may think of. The tokens can then be sold and the token issuer promises that the token holders can redeem them to get the goods or services that the tokens represent. The issuers reputation is at stake; if they cannot fullfil their promise the market value of their token will diminish.
+Until now we have discussed about transfering (ownership) of currency between two or more parties anywhere in the world. This use case deals with transfering ownership of anything via the technology Bitcoin introduced. Users can create their own digital tokens that represent real world objects that they sell or services that they provide or anything else you may think of. The tokens can then be sold and the token issuer promises that the token holders can redeem them to get the goods or services that the tokens represent. The issuers reputation is at stake; if they cannot fulfill their promise the market value of their token will diminish.
 
 Some token examples:
 
@@ -197,7 +197,7 @@ This cannot be emphasized enough. One should never lose or share the private key
 
 
 === Wallets
-To manage your bitcoin accounds (addresses and keys) users use Bitcoin wallets; software specialized in making easy to manage accounts and allow you send (or receive) bitcoins.
+To manage your bitcoin accounts (addresses and keys) users use Bitcoin wallets; software specialized in making easy to manage accounts and allow you send (or receive) bitcoins.
 
 There are several different categories of wallets. Some are for your desktop some for your mobile phone some online/web wallets and even hardware wallets. There are several wallets for each category but an easy one to use is Copayfootnote:[https://copay.io/] and is available in all major platforms for your mobile phone or desktop computer. Another option is an online/web wallet like Blockchain.infofootnote:[https://blockchain.info/wallet/] which is also very easy to use. More advanced users can visit the website https://bitcoin.org/en/choose-your-wallet[bitcoin.org] to help you choose another wallet depending on your security requirements.
 
@@ -221,7 +221,7 @@ The "TO" field is not filled in yet and she presses the scan QR code button to g
 === How to get bitcoins?
 There are several ways to get bitcoins. We will list them and briefly explain them.
 
-Mine bitcoins:: You can mine bitcoins by spending computational resources to secure the Bitcoin network. Aside from the technicalities, Bitcoin mining is extremely competive nowadays. It is very difficult to start, it needs a considerable investment and requires very cheap electricity. Only professionals can do profitable mining.
+Mine bitcoins:: You can mine bitcoins by spending computational resources to secure the Bitcoin network. Aside from the technicalities, Bitcoin mining is extremely competitive nowadays. It is very difficult to start, it needs a considerable investment and requires very cheap electricity. Only professionals can do profitable mining.
 
 Buy bitcoins online:: There are several online sites, e.g. exchanges that users can buy bitcoins. You need to create an account to that service and send some fiat currency via bank transfer or credit card. Then you can login to that site and buy bitcoins. You can then send those bitcoins to your private wallet in your mobile or desktop, etc.
 footnote:[You can also leave the bitcoins in the website as long as you understand that they have control of your money. If they are hacked or run away with your bitcoins there is little you can do.]. Some examples of online exchanges or other services are: Bitstampfootnote:[https://www.bitstamp.net/], Krakenfootnote:[https://www.kraken.com/], Coinbasefootnote:[https://www.coinbase.com/], Xapofootnote:[https://xapo.com/] and many others.
